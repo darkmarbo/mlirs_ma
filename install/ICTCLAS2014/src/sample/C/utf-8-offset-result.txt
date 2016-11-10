@@ -1,0 +1,1001 @@
+
+No.1:start:10, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.2:start:16, length:3,POS_ID:80,Word_ID:49
+，
+No.3:start:19, length:6,POS_ID:20,Word_ID:15716
+一个
+No.4:start:25, length:3,POS_ID:21,Word_ID:5468
+字
+No.5:start:28, length:3,POS_ID:21,Word_ID:5965
+头
+No.6:start:31, length:3,POS_ID:55,Word_ID:74123
+的
+No.7:start:34, length:6,POS_ID:74,Word_ID:56128
+诞生
+No.8:start:40, length:1,POS_ID:0,Word_ID:-1
+
+No.9:start:44, length:6,POS_ID:52,Word_ID:50846
+去年
+No.10:start:50, length:6,POS_ID:68,Word_ID:11859
+开始
+No.11:start:56, length:3,POS_ID:80,Word_ID:49
+，
+No.12:start:59, length:6,POS_ID:68,Word_ID:64091
+打开
+No.13:start:65, length:6,POS_ID:32,Word_ID:48499
+百度
+No.14:start:71, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.15:start:77, length:3,POS_ID:94,Word_ID:2710
+吧
+No.16:start:80, length:3,POS_ID:80,Word_ID:49
+，
+No.17:start:83, length:3,POS_ID:68,Word_ID:14730
+满
+No.18:start:86, length:3,POS_ID:22,Word_ID:46010
+屏
+No.19:start:89, length:3,POS_ID:55,Word_ID:74123
+的
+No.20:start:92, length:3,POS_ID:22,Word_ID:84045
+帖
+No.21:start:95, length:3,POS_ID:22,Word_ID:64255
+子
+No.22:start:98, length:6,POS_ID:11,Word_ID:28821
+大多
+No.23:start:104, length:6,POS_ID:68,Word_ID:21408
+含有
+No.24:start:110, length:3,POS_ID:92,Word_ID:13
+“
+No.25:start:113, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.26:start:119, length:3,POS_ID:91,Word_ID:14
+”
+No.27:start:122, length:3,POS_ID:18,Word_ID:42597
+二
+No.28:start:125, length:3,POS_ID:21,Word_ID:5468
+字
+No.29:start:128, length:3,POS_ID:80,Word_ID:49
+，
+No.30:start:131, length:6,POS_ID:2,Word_ID:34402
+一般
+No.31:start:137, length:6,POS_ID:21,Word_ID:26080
+网友
+No.32:start:143, length:6,POS_ID:9,Word_ID:21922
+不仅
+No.33:start:149, length:3,POS_ID:11,Word_ID:62487
+不
+No.34:start:152, length:3,POS_ID:68,Word_ID:810
+懂
+No.35:start:155, length:3,POS_ID:50,Word_ID:11973
+这
+No.36:start:158, length:3,POS_ID:21,Word_ID:55941
+词
+No.37:start:161, length:6,POS_ID:43,Word_ID:87302
+什么
+No.38:start:167, length:6,POS_ID:21,Word_ID:9858
+意思
+No.39:start:173, length:3,POS_ID:80,Word_ID:49
+，
+No.40:start:176, length:3,POS_ID:11,Word_ID:55924
+更
+No.41:start:179, length:3,POS_ID:3,Word_ID:21974
+难
+No.42:start:182, length:6,POS_ID:68,Word_ID:24691
+理解
+No.43:start:188, length:6,POS_ID:47,Word_ID:15422
+这个
+No.44:start:194, length:3,POS_ID:21,Word_ID:55941
+词
+No.45:start:197, length:9,POS_ID:46,Word_ID:29721
+为什么
+No.46:start:206, length:3,POS_ID:68,Word_ID:86557
+会
+No.47:start:209, length:6,POS_ID:47,Word_ID:83774
+这么
+No.48:start:215, length:3,POS_ID:21,Word_ID:42774
+火
+No.49:start:218, length:3,POS_ID:82,Word_ID:3
+。
+No.50:start:221, length:6,POS_ID:9,Word_ID:16292
+然而
+No.51:start:227, length:3,POS_ID:34,Word_ID:65760
+从
+No.52:start:230, length:9,POS_ID:52,Word_ID:39755
+下半年
+No.53:start:239, length:6,POS_ID:68,Word_ID:11859
+开始
+No.54:start:245, length:3,POS_ID:80,Word_ID:49
+，
+No.55:start:248, length:3,POS_ID:92,Word_ID:13
+“
+No.56:start:251, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.57:start:257, length:3,POS_ID:91,Word_ID:14
+”
+No.58:start:260, length:6,POS_ID:11,Word_ID:3505
+已经
+No.59:start:266, length:6,POS_ID:68,Word_ID:8826
+覆盖
+No.60:start:272, length:6,POS_ID:21,Word_ID:55425
+网络
+No.61:start:278, length:6,POS_ID:47,Word_ID:43920
+各个
+No.62:start:284, length:6,POS_ID:21,Word_ID:87066
+角落
+No.63:start:290, length:3,POS_ID:80,Word_ID:49
+，
+No.64:start:293, length:6,POS_ID:21,Word_ID:37534
+人人
+No.65:start:299, length:3,POS_ID:68,Word_ID:49161
+争
+No.66:start:302, length:3,POS_ID:68,Word_ID:11589
+说
+No.67:start:305, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.68:start:311, length:3,POS_ID:80,Word_ID:49
+，
+No.69:start:314, length:6,POS_ID:21,Word_ID:37534
+人人
+No.70:start:320, length:3,POS_ID:68,Word_ID:49161
+争
+No.71:start:323, length:3,POS_ID:34,Word_ID:49911
+当
+No.72:start:326, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.73:start:332, length:3,POS_ID:82,Word_ID:3
+。
+No.74:start:335, length:1,POS_ID:0,Word_ID:-1
+
+No.75:start:337, length:3,POS_ID:34,Word_ID:65760
+从
+No.76:start:340, length:6,POS_ID:21,Word_ID:55122
+遭遇
+No.77:start:346, length:3,POS_ID:3,Word_ID:20271
+恶
+No.78:start:349, length:3,POS_ID:68,Word_ID:1425
+搞
+No.79:start:352, length:3,POS_ID:68,Word_ID:65243
+到
+No.80:start:355, length:12,POS_ID:255,Word_ID:-1
+群体自嘲
+No.81:start:367, length:3,POS_ID:80,Word_ID:49
+，
+No.82:start:370, length:3,POS_ID:92,Word_ID:13
+“
+No.83:start:373, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.84:start:379, length:3,POS_ID:91,Word_ID:14
+”
+No.85:start:382, length:6,POS_ID:21,Word_ID:25184
+名号
+No.86:start:388, length:12,POS_ID:73,Word_ID:77636
+横空出世
+No.87:start:400, length:1,POS_ID:0,Word_ID:-1
+
+No.88:start:402, length:3,POS_ID:92,Word_ID:13
+“
+No.89:start:405, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.90:start:411, length:3,POS_ID:91,Word_ID:14
+”
+No.91:start:414, length:3,POS_ID:18,Word_ID:85616
+一
+No.92:start:417, length:3,POS_ID:21,Word_ID:55941
+词
+No.93:start:420, length:3,POS_ID:11,Word_ID:62642
+最
+No.94:start:423, length:3,POS_ID:2,Word_ID:79944
+早
+No.95:start:426, length:3,POS_ID:55,Word_ID:74123
+的
+No.96:start:429, length:6,POS_ID:21,Word_ID:87336
+来源
+No.97:start:435, length:3,POS_ID:75,Word_ID:40459
+是
+No.98:start:438, length:6,POS_ID:32,Word_ID:48499
+百度
+No.99:start:444, length:3,POS_ID:92,Word_ID:13
+“
+No.100:start:447, length:3,POS_ID:18,Word_ID:75946
+三
+No.101:start:450, length:6,POS_ID:21,Word_ID:22625
+巨头
+No.102:start:456, length:3,POS_ID:94,Word_ID:2710
+吧
+No.103:start:459, length:3,POS_ID:91,Word_ID:14
+”
+No.104:start:462, length:3,POS_ID:34,Word_ID:60335
+对
+No.105:start:465, length:3,POS_ID:92,Word_ID:13
+“
+No.106:start:468, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.107:start:474, length:3,POS_ID:94,Word_ID:2710
+吧
+No.108:start:477, length:3,POS_ID:91,Word_ID:14
+”
+No.109:start:480, length:6,POS_ID:21,Word_ID:20212
+球迷
+No.110:start:486, length:3,POS_ID:55,Word_ID:74123
+的
+No.111:start:489, length:3,POS_ID:3,Word_ID:20271
+恶
+No.112:start:492, length:3,POS_ID:68,Word_ID:1425
+搞
+No.113:start:495, length:6,POS_ID:21,Word_ID:59031
+称谓
+No.114:start:501, length:3,POS_ID:80,Word_ID:49
+，
+No.115:start:504, length:3,POS_ID:77,Word_ID:13185
+有
+No.116:start:507, length:6,POS_ID:74,Word_ID:26468
+嘲讽
+No.117:start:513, length:3,POS_ID:67,Word_ID:50214
+之
+No.118:start:516, length:3,POS_ID:22,Word_ID:63635
+意
+No.119:start:519, length:3,POS_ID:80,Word_ID:49
+，
+No.120:start:522, length:3,POS_ID:9,Word_ID:42395
+但
+No.121:start:525, length:3,POS_ID:11,Word_ID:75900
+却
+No.122:start:528, length:3,POS_ID:36,Word_ID:20520
+被
+No.123:start:531, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.124:start:537, length:3,POS_ID:94,Word_ID:2710
+吧
+No.125:start:540, length:3,POS_ID:55,Word_ID:74123
+的
+No.126:start:543, length:6,POS_ID:21,Word_ID:20212
+球迷
+No.127:start:549, length:6,POS_ID:11,Word_ID:47603
+就此
+No.128:start:555, length:6,POS_ID:68,Word_ID:20189
+领受
+No.129:start:561, length:6,POS_ID:70,Word_ID:61383
+下来
+No.130:start:567, length:3,POS_ID:82,Word_ID:3
+。
+No.131:start:570, length:3,POS_ID:92,Word_ID:13
+“
+No.132:start:573, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.133:start:579, length:3,POS_ID:91,Word_ID:14
+”
+No.134:start:582, length:3,POS_ID:18,Word_ID:42597
+二
+No.135:start:585, length:3,POS_ID:21,Word_ID:5468
+字
+No.136:start:588, length:6,POS_ID:68,Word_ID:45592
+蕴含
+No.137:start:594, length:3,POS_ID:66,Word_ID:16985
+着
+No.138:start:597, length:6,POS_ID:6,Word_ID:31793
+无奈
+No.139:start:603, length:3,POS_ID:10,Word_ID:41038
+和
+No.140:start:606, length:6,POS_ID:72,Word_ID:54834
+自嘲
+No.141:start:612, length:3,POS_ID:55,Word_ID:74123
+的
+No.142:start:615, length:6,POS_ID:21,Word_ID:39027
+意味
+No.143:start:621, length:3,POS_ID:80,Word_ID:49
+，
+No.144:start:624, length:6,POS_ID:9,Word_ID:73190
+但是
+No.145:start:630, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.146:start:636, length:3,POS_ID:94,Word_ID:2710
+吧
+No.147:start:639, length:6,POS_ID:21,Word_ID:20212
+球迷
+No.148:start:645, length:3,POS_ID:92,Word_ID:13
+“
+No.149:start:648, length:3,POS_ID:11,Word_ID:62487
+不
+No.150:start:651, length:3,POS_ID:34,Word_ID:33049
+以
+No.151:start:654, length:3,POS_ID:68,Word_ID:66615
+为
+No.152:start:657, length:3,POS_ID:4,Word_ID:67746
+耻
+No.153:start:660, length:3,POS_ID:86,Word_ID:2
+、
+No.154:start:663, length:3,POS_ID:72,Word_ID:76848
+反
+No.155:start:666, length:3,POS_ID:34,Word_ID:33049
+以
+No.156:start:669, length:3,POS_ID:68,Word_ID:66615
+为
+No.157:start:672, length:3,POS_ID:4,Word_ID:33679
+荣
+No.158:start:675, length:3,POS_ID:91,Word_ID:14
+”
+No.159:start:678, length:3,POS_ID:80,Word_ID:49
+，
+No.160:start:681, length:6,POS_ID:11,Word_ID:61342
+从此
+No.161:start:687, length:3,POS_ID:34,Word_ID:33049
+以
+No.162:start:690, length:3,POS_ID:92,Word_ID:13
+“
+No.163:start:693, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.164:start:699, length:3,POS_ID:91,Word_ID:14
+”
+No.165:start:702, length:6,POS_ID:68,Word_ID:72802
+自称
+No.166:start:708, length:3,POS_ID:80,Word_ID:49
+，
+No.167:start:711, length:3,POS_ID:10,Word_ID:49219
+并
+No.168:start:714, length:6,POS_ID:68,Word_ID:11859
+开始
+No.169:start:720, length:6,POS_ID:20,Word_ID:2114
+一路
+No.170:start:726, length:12,POS_ID:255,Word_ID:-1
+爆红网络
+No.171:start:738, length:3,POS_ID:82,Word_ID:3
+。
+No.172:start:741, length:1,POS_ID:0,Word_ID:-1
+
+No.173:start:745, length:6,POS_ID:68,Word_ID:7975
+提到
+No.174:start:751, length:3,POS_ID:92,Word_ID:13
+“
+No.175:start:754, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.176:start:760, length:3,POS_ID:91,Word_ID:14
+”
+No.177:start:763, length:3,POS_ID:11,Word_ID:48658
+就
+No.178:start:766, length:3,POS_ID:11,Word_ID:62487
+不
+No.179:start:769, length:3,POS_ID:68,Word_ID:77037
+能
+No.180:start:772, length:3,POS_ID:11,Word_ID:62487
+不
+No.181:start:775, length:3,POS_ID:68,Word_ID:76439
+提
+No.182:start:778, length:6,POS_ID:32,Word_ID:48499
+百度
+No.183:start:784, length:3,POS_ID:92,Word_ID:13
+“
+No.184:start:787, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.185:start:793, length:3,POS_ID:94,Word_ID:2710
+吧
+No.186:start:796, length:3,POS_ID:91,Word_ID:14
+”
+No.187:start:799, length:3,POS_ID:80,Word_ID:49
+，
+No.188:start:802, length:3,POS_ID:11,Word_ID:10642
+也
+No.189:start:805, length:3,POS_ID:68,Word_ID:48865
+称
+No.190:start:808, length:3,POS_ID:92,Word_ID:13
+“
+No.191:start:811, length:2,POS_ID:21,Word_ID:-1
+D8
+No.192:start:813, length:3,POS_ID:91,Word_ID:14
+”
+No.193:start:816, length:3,POS_ID:82,Word_ID:3
+。
+No.194:start:819, length:3,POS_ID:47,Word_ID:63070
+其
+No.195:start:822, length:6,POS_ID:21,Word_ID:47163
+会员
+No.196:start:828, length:3,POS_ID:42,Word_ID:73549
+自
+No.197:start:831, length:6,POS_ID:68,Word_ID:50988
+称为
+No.198:start:837, length:3,POS_ID:92,Word_ID:13
+“
+No.199:start:840, length:6,POS_ID:26,Word_ID:-1
+毅丝
+No.200:start:846, length:3,POS_ID:11,Word_ID:62487
+不
+No.201:start:849, length:3,POS_ID:68,Word_ID:85546
+挂
+No.202:start:852, length:3,POS_ID:91,Word_ID:14
+”
+No.203:start:855, length:3,POS_ID:80,Word_ID:49
+，
+No.204:start:858, length:3,POS_ID:68,Word_ID:52100
+取
+No.205:start:861, length:3,POS_ID:34,Word_ID:73549
+自
+No.206:start:864, length:3,POS_ID:92,Word_ID:13
+“
+No.207:start:867, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.208:start:873, length:3,POS_ID:55,Word_ID:74123
+的
+No.209:start:876, length:6,POS_ID:21,Word_ID:38143
+粉丝
+No.210:start:882, length:3,POS_ID:91,Word_ID:14
+”
+No.211:start:885, length:3,POS_ID:82,Word_ID:3
+。
+No.212:start:888, length:3,POS_ID:34,Word_ID:23921
+因
+No.213:start:891, length:6,POS_ID:2,Word_ID:79381
+著名
+No.214:start:897, length:6,POS_ID:21,Word_ID:19310
+足球
+No.215:start:903, length:9,POS_ID:21,Word_ID:50967
+运动员
+No.216:start:912, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.217:start:918, length:6,POS_ID:52,Word_ID:19163
+当年
+No.218:start:924, length:3,POS_ID:55,Word_ID:74123
+的
+No.219:start:927, length:3,POS_ID:18,Word_ID:85616
+一
+No.220:start:930, length:3,POS_ID:37,Word_ID:43143
+句
+No.221:start:933, length:6,POS_ID:72,Word_ID:6211
+无心
+No.222:start:939, length:3,POS_ID:67,Word_ID:50214
+之
+No.223:start:942, length:3,POS_ID:22,Word_ID:41114
+言
+No.224:start:945, length:3,POS_ID:87,Word_ID:7
+：
+No.225:start:948, length:3,POS_ID:42,Word_ID:11795
+我
+No.226:start:951, length:3,POS_ID:55,Word_ID:74123
+的
+No.227:start:954, length:3,POS_ID:68,Word_ID:4997
+护
+No.228:start:957, length:3,POS_ID:21,Word_ID:63692
+球
+No.229:start:960, length:3,POS_ID:68,Word_ID:86484
+像
+No.230:start:963, length:6,POS_ID:27,Word_ID:72937
+亨利
+No.231:start:969, length:3,POS_ID:82,Word_ID:3
+。
+No.232:start:972, length:3,POS_ID:10,Word_ID:32081
+而
+No.233:start:975, length:6,POS_ID:27,Word_ID:72937
+亨利
+No.234:start:981, length:3,POS_ID:34,Word_ID:51842
+在
+No.235:start:984, length:6,POS_ID:51,Word_ID:75596
+国外
+No.236:start:990, length:3,POS_ID:36,Word_ID:20520
+被
+No.237:start:993, length:6,POS_ID:68,Word_ID:87345
+称作
+No.238:start:999, length:6,POS_ID:27,Word_ID:72937
+亨利
+No.239:start:1005, length:6,POS_ID:21,Word_ID:57350
+大帝
+No.240:start:1011, length:3,POS_ID:82,Word_ID:3
+。
+No.241:start:1014, length:6,POS_ID:9,Word_ID:73173
+因而
+No.242:start:1020, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.243:start:1026, length:6,POS_ID:11,Word_ID:61342
+从此
+No.244:start:1032, length:3,POS_ID:11,Word_ID:10642
+也
+No.245:start:1035, length:3,POS_ID:36,Word_ID:20520
+被
+No.246:start:1038, length:3,POS_ID:72,Word_ID:16896
+冠
+No.247:start:1041, length:3,POS_ID:15,Word_ID:21299
+上
+No.248:start:1044, length:3,POS_ID:92,Word_ID:13
+“
+No.249:start:1047, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.250:start:1053, length:6,POS_ID:21,Word_ID:57350
+大帝
+No.251:start:1059, length:3,POS_ID:91,Word_ID:14
+”
+No.252:start:1062, length:3,POS_ID:55,Word_ID:74123
+的
+No.253:start:1065, length:6,POS_ID:21,Word_ID:25184
+名号
+No.254:start:1071, length:3,POS_ID:82,Word_ID:3
+。
+No.255:start:1074, length:6,POS_ID:34,Word_ID:76714
+至于
+No.256:start:1080, length:6,POS_ID:11,Word_ID:49559
+最初
+No.257:start:1086, length:3,POS_ID:75,Word_ID:40459
+是
+No.258:start:1089, length:3,POS_ID:43,Word_ID:46528
+谁
+No.259:start:1092, length:6,POS_ID:68,Word_ID:11859
+开始
+No.260:start:1098, length:6,POS_ID:47,Word_ID:83774
+这么
+No.261:start:1104, length:3,POS_ID:72,Word_ID:87377
+叫
+No.262:start:1107, length:3,POS_ID:55,Word_ID:74123
+的
+No.263:start:1110, length:3,POS_ID:80,Word_ID:49
+，
+No.264:start:1113, length:12,POS_ID:73,Word_ID:63362
+众说纷纭
+No.265:start:1125, length:3,POS_ID:82,Word_ID:3
+。
+No.266:start:1128, length:1,POS_ID:0,Word_ID:-1
+
+No.267:start:1132, length:3,POS_ID:10,Word_ID:32081
+而
+No.268:start:1135, length:3,POS_ID:92,Word_ID:13
+“
+No.269:start:1138, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.270:start:1144, length:3,POS_ID:94,Word_ID:2710
+吧
+No.271:start:1147, length:3,POS_ID:91,Word_ID:14
+”
+No.272:start:1150, length:3,POS_ID:11,Word_ID:46806
+亦
+No.273:start:1153, length:3,POS_ID:77,Word_ID:13185
+有
+No.274:start:1156, length:3,POS_ID:92,Word_ID:13
+“
+No.275:start:1159, length:6,POS_ID:32,Word_ID:48499
+百度
+No.276:start:1165, length:6,POS_ID:255,Word_ID:-1
+贴吧
+No.277:start:1171, length:9,POS_ID:21,Word_ID:10446
+卢浮宫
+No.278:start:1180, length:3,POS_ID:91,Word_ID:14
+”
+No.279:start:1183, length:3,POS_ID:67,Word_ID:50214
+之
+No.280:start:1186, length:3,POS_ID:22,Word_ID:48865
+称
+No.281:start:1189, length:3,POS_ID:80,Word_ID:49
+，
+No.282:start:1192, length:6,POS_ID:34,Word_ID:46928
+因为
+No.283:start:1198, length:6,POS_ID:18,Word_ID:33870
+很多
+No.284:start:1204, length:3,POS_ID:34,Word_ID:51842
+在
+No.285:start:1207, length:6,POS_ID:21,Word_ID:55425
+网络
+No.286:start:1213, length:6,POS_ID:68,Word_ID:67266
+流传
+No.287:start:1219, length:3,POS_ID:12,Word_ID:84139
+甚
+No.288:start:1222, length:3,POS_ID:2,Word_ID:38435
+广
+No.289:start:1225, length:3,POS_ID:55,Word_ID:74123
+的
+No.290:start:1228, length:6,POS_ID:21,Word_ID:42645
+内涵
+No.291:start:1234, length:3,POS_ID:22,Word_ID:82863
+文
+No.292:start:1237, length:3,POS_ID:11,Word_ID:22248
+都
+No.293:start:1240, length:6,POS_ID:68,Word_ID:41890
+出自
+No.294:start:1246, length:3,POS_ID:92,Word_ID:13
+“
+No.295:start:1249, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.296:start:1255, length:3,POS_ID:94,Word_ID:2710
+吧
+No.297:start:1258, length:3,POS_ID:91,Word_ID:14
+”
+No.298:start:1261, length:3,POS_ID:80,Word_ID:49
+，
+No.299:start:1264, length:6,POS_ID:68,Word_ID:13553
+包括
+No.300:start:1270, length:3,POS_ID:50,Word_ID:59896
+那
+No.301:start:1273, length:3,POS_ID:37,Word_ID:8512
+篇
+No.302:start:1276, length:12,POS_ID:73,Word_ID:21179
+红极一时
+No.303:start:1288, length:3,POS_ID:55,Word_ID:74123
+的
+No.304:start:1291, length:3,POS_ID:84,Word_ID:19
+《
+No.305:start:1294, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.306:start:1300, length:6,POS_ID:21,Word_ID:57350
+大帝
+No.307:start:1306, length:6,POS_ID:21,Word_ID:20217
+本纪
+No.308:start:1312, length:3,POS_ID:83,Word_ID:20
+》
+No.309:start:1315, length:3,POS_ID:82,Word_ID:3
+。
+No.310:start:1318, length:3,POS_ID:10,Word_ID:32081
+而
+No.311:start:1321, length:3,POS_ID:50,Word_ID:11973
+这
+No.312:start:1324, length:3,POS_ID:18,Word_ID:85616
+一
+No.313:start:1327, length:3,POS_ID:39,Word_ID:60277
+次
+No.314:start:1330, length:3,POS_ID:80,Word_ID:49
+，
+No.315:start:1333, length:3,POS_ID:92,Word_ID:13
+“
+No.316:start:1336, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.317:start:1342, length:3,POS_ID:91,Word_ID:14
+”
+No.318:start:1345, length:12,POS_ID:255,Word_ID:-1
+爆红网络
+No.319:start:1357, length:3,POS_ID:80,Word_ID:49
+，
+No.320:start:1360, length:3,POS_ID:9,Word_ID:3720
+则
+No.321:start:1363, length:3,POS_ID:75,Word_ID:40459
+是
+No.322:start:1366, length:3,POS_ID:11,Word_ID:65312
+又
+No.323:start:1369, length:3,POS_ID:18,Word_ID:85616
+一
+No.324:start:1372, length:3,POS_ID:39,Word_ID:60277
+次
+No.325:start:1375, length:6,POS_ID:68,Word_ID:76352
+体现
+No.326:start:1381, length:3,POS_ID:70,Word_ID:4178
+出
+No.327:start:1384, length:3,POS_ID:92,Word_ID:13
+“
+No.328:start:1387, length:6,POS_ID:24,Word_ID:-1
+李毅
+No.329:start:1393, length:3,POS_ID:94,Word_ID:2710
+吧
+No.330:start:1396, length:3,POS_ID:91,Word_ID:14
+”
+No.331:start:1399, length:3,POS_ID:34,Word_ID:60335
+对
+No.332:start:1402, length:6,POS_ID:21,Word_ID:55425
+网络
+No.333:start:1408, length:6,POS_ID:21,Word_ID:46895
+文化
+No.334:start:1414, length:3,POS_ID:55,Word_ID:74123
+的
+No.335:start:1417, length:6,POS_ID:74,Word_ID:47329
+影响
+No.336:start:1423, length:3,POS_ID:82,Word_ID:3
+。
+No.337:start:1426, length:1,POS_ID:0,Word_ID:-1
+
+No.338:start:1428, length:3,POS_ID:2,Word_ID:1249
+丑
+No.339:start:1431, length:3,POS_ID:2,Word_ID:40602
+穷
+No.340:start:1434, length:6,POS_ID:2,Word_ID:83856
+无能
+No.341:start:1440, length:3,POS_ID:9,Word_ID:42395
+但
+No.342:start:1443, length:6,POS_ID:2,Word_ID:57556
+善良
+No.343:start:1449, length:3,POS_ID:87,Word_ID:7
+：
+No.344:start:1452, length:3,POS_ID:92,Word_ID:13
+“
+No.345:start:1455, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.346:start:1461, length:3,POS_ID:91,Word_ID:14
+”
+No.347:start:1464, length:6,POS_ID:21,Word_ID:19241
+代表
+No.348:start:1470, length:3,POS_ID:61,Word_ID:1129
+了
+No.349:start:1473, length:3,POS_ID:11,Word_ID:62642
+最
+No.350:start:1476, length:6,POS_ID:7,Word_ID:24485
+广大
+No.351:start:1482, length:9,POS_ID:21,Word_ID:52234
+年轻人
+No.352:start:1491, length:3,POS_ID:55,Word_ID:74123
+的
+No.353:start:1494, length:6,POS_ID:21,Word_ID:63860
+面貌
+No.354:start:1500, length:1,POS_ID:0,Word_ID:-1
+
+No.355:start:1502, length:3,POS_ID:92,Word_ID:13
+“
+No.356:start:1505, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.357:start:1511, length:3,POS_ID:91,Word_ID:14
+”
+No.358:start:1514, length:3,POS_ID:3,Word_ID:79269
+多
+No.359:start:1517, length:3,POS_ID:68,Word_ID:55740
+指
+No.360:start:1520, length:6,POS_ID:2,Word_ID:52231
+年轻
+No.361:start:1526, length:6,POS_ID:21,Word_ID:46860
+男性
+No.362:start:1532, length:3,POS_ID:80,Word_ID:49
+，
+No.363:start:1535, length:6,POS_ID:42,Word_ID:18458
+他们
+No.364:start:1541, length:6,POS_ID:68,Word_ID:32934
+出身
+No.365:start:1547, length:6,POS_ID:6,Word_ID:67156
+卑微
+No.366:start:1553, length:3,POS_ID:80,Word_ID:49
+，
+No.367:start:1556, length:6,POS_ID:42,Word_ID:18458
+他们
+No.368:start:1562, length:3,POS_ID:68,Word_ID:48865
+称
+No.369:start:1565, length:6,POS_ID:42,Word_ID:64337
+自己
+No.370:start:1571, length:3,POS_ID:55,Word_ID:74123
+的
+No.371:start:1574, length:6,POS_ID:74,Word_ID:39174
+工作
+No.372:start:1580, length:3,POS_ID:68,Word_ID:66615
+为
+No.373:start:1583, length:3,POS_ID:92,Word_ID:13
+“
+No.374:start:1586, length:3,POS_ID:68,Word_ID:6364
+搬
+No.375:start:1589, length:3,POS_ID:21,Word_ID:11842
+砖
+No.376:start:1592, length:3,POS_ID:91,Word_ID:14
+”
+No.377:start:1595, length:3,POS_ID:80,Word_ID:49
+，
+No.378:start:1598, length:6,POS_ID:42,Word_ID:18458
+他们
+No.379:start:1604, length:3,POS_ID:68,Word_ID:472
+爱
+No.380:start:1607, length:3,POS_ID:21,Word_ID:37187
+网
+No.381:start:1610, length:3,POS_ID:22,Word_ID:83286
+游
+No.382:start:1613, length:3,POS_ID:86,Word_ID:2
+、
+No.383:start:1616, length:3,POS_ID:68,Word_ID:472
+爱
+No.384:start:1619, length:6,POS_ID:255,Word_ID:-1
+贴吧
+No.385:start:1625, length:3,POS_ID:86,Word_ID:2
+、
+No.386:start:1628, length:3,POS_ID:68,Word_ID:472
+爱
+No.387:start:1631, length:3,POS_ID:92,Word_ID:13
+“
+No.388:start:1634, length:3,POS_ID:7,Word_ID:59447
+女
+No.389:start:1637, length:3,POS_ID:21,Word_ID:59331
+神
+No.390:start:1640, length:3,POS_ID:91,Word_ID:14
+”
+No.391:start:1643, length:3,POS_ID:11,Word_ID:10642
+也
+No.392:start:1646, length:3,POS_ID:68,Word_ID:472
+爱
+No.393:start:1649, length:6,POS_ID:21,Word_ID:43112
+幻想
+No.394:start:1655, length:3,POS_ID:80,Word_ID:49
+，
+No.395:start:1658, length:3,POS_ID:11,Word_ID:75900
+却
+No.396:start:1661, length:6,POS_ID:68,Word_ID:43485
+缺乏
+No.397:start:1667, length:3,POS_ID:22,Word_ID:40222
+行
+No.398:start:1670, length:6,POS_ID:21,Word_ID:75543
+动力
+No.399:start:1676, length:3,POS_ID:80,Word_ID:49
+，
+No.400:start:1679, length:3,POS_ID:68,Word_ID:40557
+想
+No.401:start:1682, length:3,POS_ID:68,Word_ID:52935
+做
+No.402:start:1685, length:3,POS_ID:10,Word_ID:32081
+而
+No.403:start:1688, length:3,POS_ID:11,Word_ID:62487
+不
+No.404:start:1691, length:3,POS_ID:68,Word_ID:53540
+敢
+No.405:start:1694, length:3,POS_ID:68,Word_ID:52935
+做
+No.406:start:1697, length:3,POS_ID:81,Word_ID:56
+；
+No.407:start:1700, length:6,POS_ID:42,Word_ID:18458
+他们
+No.408:start:1706, length:6,POS_ID:21,Word_ID:46368
+内心
+No.409:start:1712, length:6,POS_ID:6,Word_ID:61019
+虚荣
+No.410:start:1718, length:3,POS_ID:80,Word_ID:49
+，
+No.411:start:1721, length:3,POS_ID:11,Word_ID:75900
+却
+No.412:start:1724, length:3,POS_ID:11,Word_ID:65312
+又
+No.413:start:1727, length:6,POS_ID:68,Word_ID:73976
+不屑
+No.414:start:1733, length:3,POS_ID:92,Word_ID:13
+“
+No.415:start:1736, length:3,POS_ID:2,Word_ID:80329
+高
+No.416:start:1739, length:6,POS_ID:255,Word_ID:-1
+富帅
+No.417:start:1745, length:3,POS_ID:91,Word_ID:14
+”
+No.418:start:1748, length:3,POS_ID:10,Word_ID:32081
+而
+No.419:start:1751, length:3,POS_ID:12,Word_ID:67276
+故
+No.420:start:1754, length:3,POS_ID:68,Word_ID:62550
+作
+No.421:start:1757, length:6,POS_ID:2,Word_ID:5979
+清高
+No.422:start:1763, length:3,POS_ID:81,Word_ID:56
+；
+No.423:start:1766, length:6,POS_ID:42,Word_ID:18458
+他们
+No.424:start:1772, length:6,POS_ID:2,Word_ID:24128
+自卑
+No.425:start:1778, length:3,POS_ID:86,Word_ID:2
+、
+No.426:start:1781, length:3,POS_ID:34,Word_ID:73549
+自
+No.427:start:1784, length:3,POS_ID:2,Word_ID:7216
+贱
+No.428:start:1787, length:3,POS_ID:11,Word_ID:75900
+却
+No.429:start:1790, length:3,POS_ID:11,Word_ID:10642
+也
+No.430:start:1793, length:12,POS_ID:73,Word_ID:85245
+自以为是
+No.431:start:1805, length:3,POS_ID:81,Word_ID:56
+；
+No.432:start:1808, length:6,POS_ID:42,Word_ID:18458
+他们
+No.433:start:1814, length:3,POS_ID:75,Word_ID:40459
+是
+No.434:start:1817, length:6,POS_ID:2,Word_ID:57556
+善良
+No.435:start:1823, length:3,POS_ID:55,Word_ID:74123
+的
+No.436:start:1826, length:3,POS_ID:80,Word_ID:49
+，
+No.437:start:1829, length:6,POS_ID:42,Word_ID:18458
+他们
+No.438:start:1835, length:3,POS_ID:11,Word_ID:10642
+也
+No.439:start:1838, length:3,POS_ID:75,Word_ID:40459
+是
+No.440:start:1841, length:6,POS_ID:3,Word_ID:21587
+懦弱
+No.441:start:1847, length:3,POS_ID:55,Word_ID:74123
+的
+No.442:start:1850, length:3,POS_ID:82,Word_ID:3
+。
+No.443:start:1853, length:1,POS_ID:0,Word_ID:-1
+
+No.444:start:1857, length:6,POS_ID:9,Word_ID:87397
+总之
+No.445:start:1863, length:3,POS_ID:80,Word_ID:49
+，
+No.446:start:1866, length:3,POS_ID:92,Word_ID:13
+“
+No.447:start:1869, length:6,POS_ID:255,Word_ID:-1
+屌丝
+No.448:start:1875, length:3,POS_ID:91,Word_ID:14
+”
+No.449:start:1878, length:3,POS_ID:11,Word_ID:48658
+就
+No.450:start:1881, length:3,POS_ID:75,Word_ID:40459
+是
+No.451:start:1884, length:6,POS_ID:47,Word_ID:83774
+这么
+No.452:start:1890, length:3,POS_ID:18,Word_ID:85616
+一
+No.453:start:1893, length:3,POS_ID:37,Word_ID:47761
+类
+No.454:start:1896, length:3,POS_ID:21,Word_ID:37533
+人
+No.455:start:1899, length:3,POS_ID:80,Word_ID:49
+，
+No.456:start:1902, length:6,POS_ID:42,Word_ID:18458
+他们
+No.457:start:1908, length:12,POS_ID:255,Word_ID:-1
+身份卑微
+No.458:start:1920, length:3,POS_ID:86,Word_ID:2
+、
+No.459:start:1923, length:6,POS_ID:74,Word_ID:29108
+生活
+No.460:start:1929, length:6,POS_ID:2,Word_ID:9609
+平庸
+No.461:start:1935, length:3,POS_ID:86,Word_ID:2
+、
+No.462:start:1938, length:6,POS_ID:52,Word_ID:22564
+未来
+No.463:start:1944, length:6,POS_ID:2,Word_ID:41774
+渺茫
+No.464:start:1950, length:3,POS_ID:86,Word_ID:2
+、
+No.465:start:1953, length:6,POS_ID:21,Word_ID:54520
+感情
+No.466:start:1959, length:6,POS_ID:2,Word_ID:80361
+空虚
+No.467:start:1965, length:3,POS_ID:80,Word_ID:49
+，
+No.468:start:1968, length:3,POS_ID:11,Word_ID:62487
+不
+No.469:start:1971, length:3,POS_ID:36,Word_ID:20520
+被
+No.470:start:1974, length:6,POS_ID:21,Word_ID:48622
+社会
+No.471:start:1980, length:6,POS_ID:74,Word_ID:47390
+认同
+No.472:start:1986, length:3,POS_ID:82,Word_ID:3
+。
+No.473:start:1989, length:6,POS_ID:42,Word_ID:18458
+他们
+No.474:start:1995, length:3,POS_ID:11,Word_ID:10642
+也
+No.475:start:1998, length:6,POS_ID:68,Word_ID:64547
+渴望
+No.476:start:2004, length:6,POS_ID:68,Word_ID:37348
+获得
+No.477:start:2010, length:6,POS_ID:21,Word_ID:48622
+社会
+No.478:start:2016, length:3,POS_ID:55,Word_ID:74123
+的
+No.479:start:2019, length:6,POS_ID:21,Word_ID:32058
+高度
+No.480:start:2025, length:6,POS_ID:72,Word_ID:55936
+认可
+No.481:start:2031, length:3,POS_ID:80,Word_ID:49
+，
+No.482:start:2034, length:3,POS_ID:9,Word_ID:42395
+但
+No.483:start:2037, length:3,POS_ID:11,Word_ID:65312
+又
+No.484:start:2040, length:3,POS_ID:11,Word_ID:62487
+不
+No.485:start:2043, length:6,POS_ID:68,Word_ID:72716
+知道
+No.486:start:2049, length:3,POS_ID:68,Word_ID:22199
+该
+No.487:start:2052, length:6,POS_ID:46,Word_ID:83131
+怎么
+No.488:start:2058, length:3,POS_ID:70,Word_ID:75130
+去
+No.489:start:2061, length:3,POS_ID:68,Word_ID:52935
+做
+No.490:start:2064, length:3,POS_ID:80,Word_ID:49
+，
+No.491:start:2067, length:6,POS_ID:74,Word_ID:29108
+生活
+No.492:start:2073, length:6,POS_ID:68,Word_ID:69307
+没有
+No.493:start:2079, length:6,POS_ID:21,Word_ID:76282
+目标
+No.494:start:2085, length:3,POS_ID:80,Word_ID:49
+，
+No.495:start:2088, length:6,POS_ID:68,Word_ID:43485
+缺乏
+No.496:start:2094, length:6,POS_ID:6,Word_ID:12923
+热情
+No.497:start:2100, length:3,POS_ID:80,Word_ID:49
+，
+No.498:start:2103, length:3,POS_ID:11,Word_ID:62487
+不
+No.499:start:2106, length:3,POS_ID:68,Word_ID:14730
+满
+No.500:start:2109, length:3,POS_ID:34,Word_ID:12222
+于

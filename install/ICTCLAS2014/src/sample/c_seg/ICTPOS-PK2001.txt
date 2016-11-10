@@ -1,0 +1,98 @@
+n	n
+nr	nr
+nr1	nr
+nr2	nr
+nrj	nr
+nrf	nr
+ns	ns
+nsf	ns
+nt	nt
+nz	nz
+nl	i	i*4#l
+ng	Ng	
+t	t
+tg	Tg
+s	s
+f	f
+v	v
+vd	vd
+vn	vn
+vshi	v	*
+vyou	v	*
+vf	v
+vx	v
+vi	v	*
+vl	i	i*4#l
+vg	Vg
+a	a
+ad	ad
+an	an
+ag	Ag
+al	i	i*4#l
+b	b
+bl	i	i*4#l
+z	z
+r	r
+rr	r
+rz	r
+rzt	r
+rzs	r
+rzv	r
+ry	r
+ryt	r
+rys	r
+ryv	r
+rg	Rg
+m	m
+mq	m
+q	q
+qv	q
+qt	q
+d	d
+p	p
+pba	p
+pbei	p
+c	c
+cc	c
+u	u
+uzhe	u
+ule	u
+uguo	u
+ude1	u
+ude2	u
+ude3	u
+usuo	u
+udeng	u
+uyy	u
+udh	u
+uls	u
+uzhi	u
+ulian	u
+e	e
+y	y
+o	o
+h	h
+k	k
+x	nx
+xx	nx	-
+xu	nx	-	*
+w	w
+wkz	w
+wky	w
+wyz	w
+wyy	w
+wj	w
+ww	w
+wt	w
+wd	w
+wf	w
+wn	w
+wm	w
+ws	w
+wp	w
+wb	w
+wh	w	-
+dg	Dg	
+dl	i	i*4#l
+Mg	m
+n_newword	n
